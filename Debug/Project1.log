@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+c:\users\julek\desktop\project1 (1)\project1\myform.h(1486): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\julek\desktop\project1 (1)\project1\myform.h(1493): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\julek\desktop\project1 (1)\project1\myform.h(1505): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\julek\desktop\project1 (1)\project1\myform.h(1510): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\julek\desktop\project1 (1)\project1\myform.h(1768): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  MyForm.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Project1.vcxproj -> C:\Users\julek\Desktop\Project1 (1)\Debug\Project1.exe
